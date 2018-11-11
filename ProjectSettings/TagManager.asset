@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Team 1
+  - Team 2
+  - right
+  - top
+  - left
+  - bottom
+  - stick
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - c1 only
+  - c2 only
+  - c3 only
+  - c4 only
+  - not c1
+  - not c2
+  - not c3
+  - not c4
+  - sfencing player
+  - camera wall
+  - player1
+  - player2
+  - player3
+  - player4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

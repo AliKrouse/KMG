@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/kmg menu.unity
+    guid: 3bd7b6344eb0c6745882ed933d0a0514
+  - enabled: 1
+    path: Assets/Scenes/Skydivers/skydivers menu.unity
+    guid: bd1e2140028b0704596ce741bcbe59ca
+  - enabled: 1
+    path: Assets/Scenes/Skydivers/skydivers arena.unity
+    guid: d8249ed8baa5490478b3017e68ec320e
+  - enabled: 1
+    path: Assets/Scenes/Smooch Fencing/smooch league menu.unity
+    guid: 896132322652f154187a3db8ec42b0d6
+  - enabled: 1
+    path: Assets/Scenes/Smooch Fencing/smooch league arena.unity
+    guid: 30ea7020d656b7443b0e536fdba10d92
+  - enabled: 1
+    path: Assets/Scenes/Tonsil Hockey/tonsil hockey menu.unity
+    guid: 064d2aba59a98da4f94c7957a725f150
+  - enabled: 1
+    path: Assets/Scenes/Tonsil Hockey/tonsil hockey arena.unity
+    guid: 66b23e4ef175e124bb0c83fd58f2aeec
+  - enabled: 1
+    path: Assets/Scenes/Speed Dating/speed dating menu.unity
+    guid: d5d17869de2351a4eb399e092a495cb7
+  - enabled: 1
+    path: Assets/Scenes/Speed Dating/speed dating arena.unity
+    guid: e39c3112991a0c649b40fe6922b00a1a
+  - enabled: 1
+    path: Assets/Scenes/JS Fuck/js fuck menu.unity
+    guid: ade01690d698a6843ab2ac46260de02f
+  - enabled: 1
+    path: Assets/Scenes/JS Fuck/js fuck arena.unity
+    guid: 92748c4559ba6cd43868c243728aea76
